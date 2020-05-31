@@ -30,6 +30,7 @@ public class Java7Example {
 		System.out.println(big_number);
 		System.out.println(big_number*2);
 		System.out.println(big_number*3);
+		System.out.println(big_number*4);
 		
 	}
 }
